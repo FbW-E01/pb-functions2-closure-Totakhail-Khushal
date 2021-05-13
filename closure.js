@@ -52,7 +52,7 @@ console.log("===============================================================");
 
 
 var addSix = createBase(6);
-addSix(10); // returns 16
+addSix(10); //returns 16
 addSix(21); // returns 27
 
 function createBase(anything) {
